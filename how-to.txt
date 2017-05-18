@@ -1,0 +1,84 @@
+Como usar
+
+Essa ferramenta possui um campo de texto onde é possível se escrever qualquer texto para a tradução.
+OBS: ele só traduz de Portugues para o Inglês.
+
+Após escrito o texto, clica-se no botão traduzir para que a requisição ao servidor de tradução seja feita.
+
+Quando o servidor responde, a tradução é apresentada na tela inicial.
+
+Exemplos de testes realizados.
+
+1. O primeiro exemplo envolve a inserção da seguinte frase: "Olá mundo! Sou eu a Tainara!"
+E a resposta do Watson Translate foi : "Hello everyone ! I am Tainara ! "
+
+2. O segundo teste envolve a inserção da frase: "Hoje eu acordei feliz, o céu estava tão lindo. As nuvens azuis, os pássaros voando, tudo estava em paz."
+E a resposta do Watson Translate foi: "Today I woke up happy, the sky was so beautiful. The blue clouds, the birds flying, everything was in peace. "
+
+3.  O terceiro teste envolve a inserção da frase: "Oi, como vc está? Amanhã é a festa na IBM, você vai ? Vai ser muito legal!"
+E a resposta do Watson Translate foi: "Hi, how are you ? Tomorrow is the party at IBM, will you ? It will be very cool ! 
+"
+
+4. O quarto teste foi feito com a letra de uma música: "Eu e você
+Não é assim tão complicado
+Não é difícil perceber
+
+Quem de nós dois
+Vai dizer que é impossível
+O amor acontecer
+
+Se eu disser
+Que já nem sinto nada
+Que a estrada sem você
+É mais segura
+Eu sei você vai rir da minha cara
+Eu já conheço o teu sorriso
+Leio o teu olhar
+Teu sorriso é só disfarce
+O que eu já nem preciso
+
+Sinto dizer que amo mesmo
+Tá ruim pra disfarçar
+Entre nós dois
+Não cabe mais nenhum segredo
+Além do que já combinamos
+
+No vão das coisas que a gente disse
+Não cabe mais sermos somente amigos
+E quando eu falo que eu já nem quero
+A frase fica pelo avesso
+Meio na contra mão
+E quando finjo que esqueço
+Eu não esqueci nada
+
+E cada vez que eu fujo, eu me aproximo mais
+E te perder de vista assim é ruim demais
+E é por isso que atravesso o teu futuro
+E faço das lembranças um lugar seguro
+Não é que eu queira reviver nenhum passado
+Nem revirar um sentimento revirado
+Mas toda vez que eu procuro uma saída
+Acabo entrando sem querer na tua vida
+
+Eu procurei qualquer desculpa pra não te encarar
+Pra não dizer de novo e sempre a mesma coisa
+Falar só por falar
+Que eu já não tô nem aí pra essa conversa
+Que a história de nós dois não me interessa
+Se eu tento esconder meias verdades
+Você conhece o meu sorriso
+Lê o meu olhar
+Meu sorriso é só disfarce
+O que eu já nem preciso
+
+E cada vez que eu fujo, eu me aproximo mais
+E te perder de vista assim é ruim demais
+E é por isso que atravesso o teu futuro
+E faço das lembranças um lugar seguro
+Não é que eu queira reviver nenhum passado
+Nem revirar um sentimento revirado
+Mas toda vez que eu procuro uma saída
+Acabo entrando sem querer na tua vida"
+
+e a resposta do Watson foi :
+"I and you're not so complicated It's hard to tell who'll say two of us that is impossible love happen If I say I don't even feel anything that the road is safer without you I know you will laugh in my face I already know your smile I read your look Your smile is just cover what I already say that I needn't even love to disguise bad All Contact us is not any more secret In what they already agreed On the things that we said is not only being more And when I tell friends that I already want The phrase is not opposed by the Committee against hand And when I forget that I don't forget anything And every time I run, I'm more And you lose sight of that is too bad And that's why I your future And do memories of a safe place is not that I want to relive any past even turn a feeling tossed But every time I'm looking for a way I want without getting in your life I looked for any excuse to not face For you don't Say again and always the same thing Talking only by talk that I'm not even already there to this conversation that the story of us don't care if I try to hide half-truths You know my smile Read my eyes My smile is just cover what I have no need and each time I run, I'm more And you lose sight of that is too bad And that's why I your future And do memories of a safe place is not that I want to relive any past even turn a feeling But every time I tossed looking for a way I want without getting in your life "

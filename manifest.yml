@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: node-app-nara
+  host: node-app-nara
+  disk_quota: 1024M
+  services:
+  - node-app-nara-cloudantNoSQLDB
+  - Language Translator-69
+  - availability-monitoring-auto
